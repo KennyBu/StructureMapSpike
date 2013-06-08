@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapSpikeConsoleApplication", "StructureMapSpikeConsoleApplication\StructureMapSpikeConsoleApplication.csproj", "{FE04F8EF-0042-4B5F-BA0D-5EA6E1F37398}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleObjectDemo", "MultipleObjectDemo\MultipleObjectDemo.csproj", "{43435BB2-1DA5-4C78-BE2B-DF12E4EB3A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{D31FBD81-8885-477F-A4FD-E5C2E5D0F03E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FE04F8EF-0042-4B5F-BA0D-5EA6E1F37398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE04F8EF-0042-4B5F-BA0D-5EA6E1F37398}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE04F8EF-0042-4B5F-BA0D-5EA6E1F37398}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE04F8EF-0042-4B5F-BA0D-5EA6E1F37398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43435BB2-1DA5-4C78-BE2B-DF12E4EB3A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43435BB2-1DA5-4C78-BE2B-DF12E4EB3A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43435BB2-1DA5-4C78-BE2B-DF12E4EB3A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43435BB2-1DA5-4C78-BE2B-DF12E4EB3A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31FBD81-8885-477F-A4FD-E5C2E5D0F03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31FBD81-8885-477F-A4FD-E5C2E5D0F03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31FBD81-8885-477F-A4FD-E5C2E5D0F03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31FBD81-8885-477F-A4FD-E5C2E5D0F03E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
